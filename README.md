@@ -3,7 +3,7 @@
 A **single-page application** built using **Vite**, **React**, and **Tailwind CSS**. This project is a Short hand Notes , created to showcase my ability to build responsive, modern layouts using Tailwind’s utility-first CSS framework. The app is optimized for performance and scalability, using Vite’s fast build and development features.
 
 ## 🌐 Live Demo
-Check out the live version of the project here: [SHort-Notes-Website](basic-notes-projects-j9vwv6car-hemant-patels-projects-94d23277.vercel.app)
+Check out the live version of the project here: [SHort-Notes-Website](basic-notes-projects-git-main-hemant-patels-projects-94d23277.vercel.app)
 
 ## 🚀 Features
 
